@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Kaung Myat Kyaw and I am currently finishing MMSIT SWD COURSE!  
 
-<img align="right" alt="img" src="./Designer _Isometric.svg" width="50%" height="auto" />
+<img align="right" alt="img" src="./beside.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
