@@ -24,18 +24,7 @@
 ```javascript
 const KaungMyat = {
   code: [Javascript, Typescript, HTML, CSS, Python, C],
-  tools: [
-    React,
-    Next,
-    RTK,
-    TanstackQuery,
-    TanstackTable,
-    Tailwind,
-    Shadcn,
-    MUI,
-    Bootstrap,
-    Vercel,
-  ],
+  tools: [React, Next, RTK, TanstackQuery, TanstackTable, Tailwind, Shadcn, MUI, Bootstrap, Vercel],
   architecture: ["Repository Pattern", "Event-Driven"],
   stack: ["MERN", "Next"],
   challenge: "Only one step each is enough but be consistent!",
